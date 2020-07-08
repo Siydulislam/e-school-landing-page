@@ -1,0 +1,97 @@
+.top-bg{
+    background-color: #F0FFF0;
+}
+.banner-margin{
+    margin-top: 50px;
+}
+.nav-color{
+    color: #000000;
+}
+.ready-color{
+    color: #FD511A;
+}
+.nav-spacing{
+    text-indent: 30px;
+}
+.schedule-color{
+    color: #21B573;
+}
+.button{
+    color: white;
+    padding: 5px 20px;
+    background-color: #21B573;
+    border-radius: 33px;
+    border: none;
+}
+.descrip-color{
+     color: #6C6B6B;
+}
+
+.group-margin{
+    margin-top: 50px;
+}
+.num-color{
+    color: #413960;
+}
+.learn-color{
+    color: #585859;
+}
+.online-color{
+    color: #413960;
+}
+
+.category{
+    border-radius: 10px;
+    background-color: #F8FFFB;
+    height: 250px;
+    text-align: center;
+    padding: 50px 30px;
+}
+.category:hover{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.cat-text{
+    margin-top: 10px;
+}
+.card-width{
+    border-width: 15px;
+    border-color: white;
+    border-radius: 15px;
+}
+.card-title{
+    color: #413960;
+}
+.card-text{
+    color: #585859;
+}
+.man-padding{
+    padding-left: 20px;
+}
+.card-shadow{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.footer-bg{
+    background-color: #282531;
+}
+.footer-color{
+    color: white;
+}
+.list-type{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.list-color{
+    color: white;
+}
+ul li a:hover{
+    text-decoration: none;
+    color: #585859;
+}
+.copyright{
+    color: #CDCDCD;
+}
+
+
+
+
